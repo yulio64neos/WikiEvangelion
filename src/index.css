@@ -1,0 +1,25 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.img_class{
+  width: 50px;
+  height: 55px;
+  cursor: pointer;
+}
+
+.img_class:hover{
+  width: 55px;
+  height: 60px;
+  transition: 0.5s;
+}
+
+.navitem{
+  display: block;
+}
+
+.anav{
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+}
